@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main1() {
 	fmt.Println("Welcome to a class of pointers")
 
 	// 	// taking a normal variable
